@@ -1,0 +1,101 @@
+year,category,nominee,movie,winner,id
+2006,actress in a supporting role,Abigail Breslin,Little Miss Sunshine,FALSE,1
+1984,actor in a supporting role,Adolph Caesar,A Soldier's Story,FALSE,2
+2006,actress in a supporting role,Adriana Barraza,Babel,FALSE,3
+2002,actor in a leading role,Adrien Brody,The Pianist,TRUE,4
+1942,actress in a supporting role,Agnes Moorehead,The Magnificent Ambersons,FALSE,5
+1944,actress in a supporting role,Agnes Moorehead,Mrs. Parkington,FALSE,6
+1948,actress in a supporting role,Agnes Moorehead,Johnny Belinda,FALSE,7
+1964,actress in a supporting role,Agnes Moorehead,"Hush...Hush, Sweet Charlotte",FALSE,8
+1936,actor in a supporting role,Akim Tamiroff,The General Died at Dawn,FALSE,9
+1943,actor in a supporting role,Akim Tamiroff,For Whom the Bell Tolls,FALSE,10
+1972,actor in a supporting role,Al Pacino,The Godfather,FALSE,11
+1973,actor,Al Pacino,Serpico,FALSE,12
+1974,actor,Al Pacino,The Godfather Part II,FALSE,13
+1975,actor,Al Pacino,Dog Day Afternoon,FALSE,14
+1979,actor in a leading role,Al Pacino,...And Justice for All,FALSE,15
+1990,actor in a supporting role,Al Pacino,Dick Tracy,FALSE,16
+1992,actor in a leading role,Al Pacino,Scent of a Woman,TRUE,17
+1992,actor in a supporting role,Al Pacino,Glengarry Glen Ross,FALSE,18
+2004,actor in a supporting role,Alan Alda,The Aviator,FALSE,19
+1966,actor,Alan Arkin,The Russians Are Coming The Russians Are Coming,FALSE,20
+1968,actor,Alan Arkin,The Heart Is a Lonely Hunter,FALSE,21
+2006,actor in a supporting role,Alan Arkin,Little Miss Sunshine,TRUE,22
+2012,actor in a supporting role,Alan Arkin,Argo,FALSE,23
+1968,actor,Alan Bates,The Fixer,FALSE,24
+1940,actor in a supporting role,Albert Basserman,Foreign Correspondent,FALSE,25
+1987,actor in a supporting role,Albert Brooks,Broadcast News,FALSE,26
+1963,actor,Albert Finney,Tom Jones,FALSE,27
+1974,actor,Albert Finney,Murder on the Orient Express,FALSE,28
+1983,actor in a leading role,Albert Finney,The Dresser,FALSE,29
+1984,actor in a leading role,Albert Finney,Under the Volcano,FALSE,30
+2000,actor in a supporting role,Albert Finney,Erin Brockovich,FALSE,31
+2003,actor in a supporting role,Alec Baldwin,The Cooler,FALSE,32
+1952,actor,Alec Guinness,The Lavender Hill Mob,FALSE,33
+1957,actor,Alec Guinness,The Bridge on the River Kwai,TRUE,34
+1977,actor in a supporting role,Alec Guinness,Star Wars,FALSE,35
+1988,actor in a supporting role,Alec Guinness,Little Dorrit,FALSE,36
+1944,actor,Alexander Knox,Wilson,FALSE,37
+1983,actress in a supporting role,Alfre Woodard,Cross Creek,FALSE,38
+1970,actress,Ali MacGraw,Love Story,FALSE,39
+1936,actress in a supporting role,Alice Brady,My Man Godfrey,FALSE,40
+1937,actress in a supporting role,Alice Brady,In Old Chicago,TRUE,41
+1944,actress in a supporting role,Aline MacMahon,Dragon Seed,FALSE,42
+2005,actress in a supporting role,Amy Adams,Junebug,FALSE,43
+2008,actress in a supporting role,Amy Adams,Doubt,FALSE,44
+2010,actress in a supporting role,Amy Adams,The Fighter,FALSE,45
+2012,actress in a supporting role,Amy Adams,The Master,FALSE,46
+1983,actress in a supporting role,Amy Irving,Yentl,FALSE,47
+1985,actress in a supporting role,Amy Madigan,Twice in a Lifetime,FALSE,48
+2007,actress in a supporting role,Amy Ryan,Gone Baby Gone,FALSE,49
+1937,actress in a supporting role,Andrea Leeds,Stage Door,FALSE,50
+1990,actor in a supporting role,Andy Garcia,"The Godfather, Part III",FALSE,51
+1993,actress in a leading role,Angela Bassett,What's Love Got to Do with It,FALSE,52
+1944,actress in a supporting role,Angela Lansbury,Gaslight,FALSE,53
+1945,actress in a supporting role,Angela Lansbury,The Picture of Dorian Gray,FALSE,54
+1962,actress in a supporting role,Angela Lansbury,The Manchurian Candidate,FALSE,55
+1999,actress in a supporting role,Angelina Jolie,"Girl, Interrupted",TRUE,56
+2008,actress in a leading role,Angelina Jolie,Changeling,FALSE,57
+1985,actress in a supporting role,Anjelica Huston,Prizzi's Honor,TRUE,58
+1989,actress in a supporting role,Anjelica Huston,"Enemies, A Love Story",FALSE,59
+1990,actress in a leading role,Anjelica Huston,The Grifters,FALSE,60
+1945,actress in a supporting role,Ann Blyth,Mildred Pierce,FALSE,61
+1987,actress in a supporting role,Ann Sothern,The Whales of August,FALSE,62
+1971,actress in a supporting role,Ann-Margret,Carnal Knowledge,FALSE,63
+1975,actress,Ann-Margret,Tommy,FALSE,64
+2009,actress in a supporting role,Anna Kendrick,Up in the Air,FALSE,65
+1955,actress,Anna Magnani,The Rose Tattoo,TRUE,66
+1957,actress,Anna Magnani,Wild Is the Wind,FALSE,67
+1993,actress in a supporting role,Anna Paquin,The Piano,TRUE,68
+1987,actress in a supporting role,Anne Archer,Fatal Attraction,FALSE,69
+1962,actress,Anne Bancroft,The Miracle Worker,TRUE,70
+1964,actress,Anne Bancroft,The Pumpkin Eater,FALSE,71
+1967,actress,Anne Bancroft,The Graduate,FALSE,72
+1977,actress in a leading role,Anne Bancroft,The Turning Point,FALSE,73
+1985,actress in a leading role,Anne Bancroft,Agnes of God,FALSE,74
+1946,actress in a supporting role,Anne Baxter,The Razor's Edge,TRUE,75
+1950,actress,Anne Baxter,All about Eve,FALSE,76
+2008,actress in a leading role,Anne Hathaway,Rachel Getting Married,FALSE,77
+2012,actress in a supporting role,Anne Hathaway,Les Mis_rables,TRUE,78
+1987,actress in a supporting role,Anne Ramsey,Throw Momma from the Train,FALSE,79
+1943,actress in a supporting role,Anne Revere,The Song of Bernadette,FALSE,80
+1945,actress in a supporting role,Anne Revere,National Velvet,TRUE,81
+1947,actress in a supporting role,Anne Revere,Gentleman's Agreement,FALSE,82
+1937,actress in a supporting role,Anne Shirley,Stella Dallas,FALSE,83
+1990,actress in a supporting role,Annette Bening,The Grifters,FALSE,84
+1999,actress in a leading role,Annette Bening,American Beauty,FALSE,85
+2004,actress in a leading role,Annette Bening,Being Julia,FALSE,86
+2010,actress in a leading role,Annette Bening,The Kids Are All Right,FALSE,87
+1966,actress,Anouk Aimee,A Man and a Woman,FALSE,88
+1957,actor,Anthony Franciosa,A Hatful of Rain,FALSE,89
+1991,actor in a leading role,Anthony Hopkins,The Silence of the Lambs,TRUE,90
+1993,actor in a leading role,Anthony Hopkins,The Remains of the Day,FALSE,91
+1995,actor in a leading role,Anthony Hopkins,Nixon,FALSE,92
+1997,actor in a supporting role,Anthony Hopkins,Amistad,FALSE,93
+1956,actor in a supporting role,Anthony Perkins,Friendly Persuasion,FALSE,94
+1969,actor in a supporting role,Anthony Quayle,Anne of the Thousand Days,FALSE,95
+1952,actor in a supporting role,Anthony Quinn,Viva Zapata!,TRUE,96
+1956,actor in a supporting role,Anthony Quinn,Lust for Life,TRUE,97
+1957,actor,Anthony Quinn,Wild Is the Wind,FALSE,98
+1964,actor,Anthony Quinn,Zorba the Greek,FALSE,99
+1996,actor in a supporting role,Armin Mueller-Stahl,Shine,FALSE,100

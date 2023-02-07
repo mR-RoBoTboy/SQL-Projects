@@ -1,0 +1,13 @@
+select * from public."User" a
+-- where a."Profession"='Teacher'
+-- where a."Last_Name"='Parashar'
+-- where a."Last_Name"='Sharma'
+-- where a."Profession" like '%Executive'
+-- where a."Age">=25
+-- where a."Age"<25
+-- where a."Age">=29
+-- select count(*) as cnt from public."User" b
+-- update public."User" set "Id"=10 where public."User"."First_Name"='Suman'
+-- Alter Table public."User" add "Wages" text
+-- Alter Table public."User" drop column "Wages"
+-- alter Table public."User" add "Wages" int
